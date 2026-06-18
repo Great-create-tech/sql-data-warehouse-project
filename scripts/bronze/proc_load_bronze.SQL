@@ -1,6 +1,6 @@
 /*
     ================================================================
-    DDL Script: Create Bronze Tables
+    Stored Procedure: Load Bronze Layer (Source -> Bronze)
     ================================================================
     Purpose:
     --------
